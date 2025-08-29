@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>KK FUNDA - Home Page</title>
+    <title>TANGO DEV OPS - Home Page</title>
     <link href="images/kkfunda.jpg" rel="icon" type="image/x-icon">
 
     <!-- Simple CSS for better appearance -->
